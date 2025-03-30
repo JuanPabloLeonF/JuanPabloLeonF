@@ -49,6 +49,4 @@ Soy un apasionado **desarrollador de software** con experiencia en **backend y f
 
 ![Tus estadísticas de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloLeonF&theme=radical&locale=es)
 
-### 📈 Lenguajes más usados
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloLeonF&layout=compact&theme=radical&locale=es)
