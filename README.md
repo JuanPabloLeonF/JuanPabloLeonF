@@ -27,6 +27,8 @@ Soy un apasionado **desarrollador de software** con experiencia en **backend y f
         ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
         ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
         ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+        ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - 🔭 Actualmente estoy trabajando en **un sistema de películas con FastAPI y Angular**
 - 🌱 Estoy aprendiendo más sobre **FastAPI y sistemas distribuidos**
