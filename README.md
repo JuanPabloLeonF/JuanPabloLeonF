@@ -2,7 +2,7 @@
 
 ## 🚀 **SOBRE MÍ**
 
-#### [📚**PORTAFOLIO WEB**](https://juanpabloleonf.github.io/portafolio-mision-1/) < -- CLICK
+#### [📚**PORTAFOLIO WEB**](https://juanpabloleonf.github.io/portfolio-web/)< -- CLICK
 
 Soy un apasionado **desarrollador de software** con experiencia en **backend y frontend**. Me encanta crear soluciones eficientes y escalables utilizando tecnologías modernas.
 
